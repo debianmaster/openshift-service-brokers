@@ -1,6 +1,6 @@
 #### Work in Progress
 
-# on a fresh centos7 machine 
+##### on a fresh centos7 machine 
 > Install docker,git etc
 
 ```sh
